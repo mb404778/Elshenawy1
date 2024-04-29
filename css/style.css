@@ -1,0 +1,14 @@
+/* Start header section */
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(74, 109, 139);
+    background-image: url(../img/mm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h2{
+    color: white;
+}
+/* End header section */
